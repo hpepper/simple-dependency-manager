@@ -43,8 +43,11 @@ Made because Ivy and archiva seems to be too complext to get started and seems t
 * Multi site support - sync relevant data betweent the sites.
 * Possibly limits on upload total sizes.
 * Support storage bins, whith unrelated administrators.
+* check dependcies before delete? perhaps this should be part of the dep managers functionality.
 
 
 Initial:
 * SCP for upload
 * lighttp for download
+* 
+
